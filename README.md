@@ -3,6 +3,9 @@
 ## Overview
 This is a real-time chat application built using Node.js, Express, and Socket.IO. The application allows users to log in with a username, chat with other users in real-time, and view their chat history.
 
+![Chat Application Screenshot](images/Screenshot%202025-03-25%20114343.png)
+![Output Screenshot](images/output.png)
+
 ## Features
 - Real-Time Messaging: Users can send and receive messages instantly.
 - User Authentication: Users can log in with a unique username.
@@ -22,7 +25,7 @@ This is a real-time chat application built using Node.js, Express, and Socket.IO
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/prashanthimudepaka//yourusername/chat-app.git
+   git clone https://github.com/prashanthimudepaka/chat-app.git
    cd chat-app
    ```
 
