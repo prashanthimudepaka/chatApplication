@@ -2,8 +2,9 @@
 
 ## Overview
 This is a real-time chat application built using Node.js, Express, and Socket.IO. The application allows users to log in with a username, chat with other users in real-time, and view their chat history.
+![Chat Application Screenshot](images/signup.png)
 
-![Chat Application Screenshot](images/Screenshot%202025-03-25%20114343.png)
+![Chat Application Screenshot](images/signin.png)
 ![Output Screenshot](images/output.png)
 
 ## Features
