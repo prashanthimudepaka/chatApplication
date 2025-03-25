@@ -23,11 +23,11 @@ This is a real-time chat application built using Node.js, Express, and Socket.IO
 - Bootstrap: CSS framework for styling the chat interface.
 
 ## Installation
-
+   node -v
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/prashanthimudepaka/chat-app.git
-   cd chat-app
+   git clone https://github.com/prashanthimudepaka/chatApplication.git
+   cd ChatApplication
    ```
 
 2. Install Dependencies:
@@ -50,7 +50,7 @@ This is a real-time chat application built using Node.js, Express, and Socket.IO
    ```
 
 5. Access the Application:
-   Open your web browser and navigate to `http://localhost:5000/chat`.
+   Open your web browser and navigate to `http://localhost:5000/login`.
 
 ## Usage
 - Enter a username in the login form and click "Submit".
