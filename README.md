@@ -64,3 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Express](https://expressjs.com/) for building the web server.
 - [MongoDB](https://www.mongodb.com/) for data storage.
 - [Bootstrap](https://getbootstrap.com/) for styling the application.
+![Output Screenshot](images/output.png)
