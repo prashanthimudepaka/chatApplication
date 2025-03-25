@@ -22,7 +22,7 @@ This is a real-time chat application built using Node.js, Express, and Socket.IO
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/prashanthimudepaka//yourusername/chat-app.git
    cd chat-app
    ```
 
@@ -56,11 +56,9 @@ This is a real-time chat application built using Node.js, Express, and Socket.IO
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - [Socket.IO](https://socket.io/) for real-time communication.
 - [Express](https://expressjs.com/) for building the web server.
 - [MongoDB](https://www.mongodb.com/) for data storage.
-- [Bootstrap](https://getbootstrap.com/) for styling the application.
+
+C:\Users\Dell\Desktop\SEM-5\endCHATapp\Screenshot 2025-03-25 114343.png
